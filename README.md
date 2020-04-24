@@ -7,7 +7,7 @@
 Esse projeto depende de um banco Postgresql.
 
 <p align="center">
-  <a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-nodejs#rocket-sobre-o-desafio">Sobre o desafio</a>
+  <a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/blob/master/desafio-database-upload/README.md#rocket-sobre-o-desafio">Sobre o desafio</a>
 </p>
 
 ### Para executar o projeto utilize os comando abaixo:
